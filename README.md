@@ -236,8 +236,6 @@ El modelo fue evaluado en el conjunto de prueba, obteniendo:
 
   ![Precisión](assets/precision.png)
 
-- **Matriz de Confusión**: Permite identificar las clases donde el modelo tiene dificultades.
-
   ![Pérdida](assets/perdida.png)
 
 ### Interfaz Gráfica
